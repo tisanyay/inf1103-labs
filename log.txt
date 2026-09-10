@@ -1,0 +1,23 @@
+commit 18dfeba8257fc6bcf11ec801b7540c35aff5f8c5
+Author: TAY BRENDEN LOMIBAO TAY YI SAN <2601795@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 16:12:19 2026 +0800
+
+    created dockerfile
+
+commit a523e35187115ece9957ddeafcc6ad0636995805
+Author: TAY BRENDEN LOMIBAO TAY YI SAN <2601795@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 15:31:17 2026 +0800
+
+    added trigger for overstock alert
+
+commit 78a79f80be03be8b999aa6ba41f3b9a439b58d6c
+Author: TAY BRENDEN LOMIBAO TAY YI SAN <2601795@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 15:10:44 2026 +0800
+
+    created auditor.py file and added two checks to the program
+
+commit f06b13b291e29f5ef3c815516c4600a5818e3974
+Author: TAY BRENDEN LOMIBAO TAY YI SAN <2601795@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 14:38:28 2026 +0800
+
+    first commit
