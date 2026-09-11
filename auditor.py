@@ -28,7 +28,6 @@ while True:
 
     if command == "quit":
         break
-
     
     list_of_checks = [
             is_digit,
